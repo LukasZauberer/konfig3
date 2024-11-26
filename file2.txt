@@ -1,2 +1,3 @@
 file for second Repository
 feature 2 in repo2
+minor feature ver1 in repo2
